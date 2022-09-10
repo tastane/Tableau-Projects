@@ -19,7 +19,7 @@ My goal was to identify correlation between vaccination rate and treatment rate 
 
 My other goal was to analyze data to find out whether America's Rescure plan reach to the poeople and communties who needed it  the most, in other words communities with high poverty level. What I discovered  was that the plan really could not achieved its goals becuase the most of the claims were paid in the communites which are not in the poor areas per the goverment census data. 
 
-<img src = "https://github.com/tastane/Tableau-Projects/blob/main/Web%20capture_9-9-2022_214214_public.tableau.com.jpeg"/>
+<img src = "https://github.com/tastane/Tableau-Projects/blob/main/Provider%20Locationa%20and%20Low%20Income%20Areas.jpeg"/>
 
 
 You can access to the full analysis, tablaue dashborad and story via following link; 
